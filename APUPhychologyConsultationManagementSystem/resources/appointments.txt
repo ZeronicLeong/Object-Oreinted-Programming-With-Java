@@ -1,0 +1,11 @@
+student,lecturer1,,2024-12-11 10:00,Rejected
+student,lecturer1,,2024-12-12 14:00,Approved
+student,lecturer2,,2024-12-10 09:00,Rejected
+student,lecturer2,,2024-12-13 08:30,Rejected
+student,lecturer1,,2024-12-15 15:00,Approved
+student,lecturer1,,2024-12-10 23:59,Approved
+student,lecturer1,,2024-12-13 08:30,Rejected
+student,lecturer1,,2024-12-13 08:30,Rejected
+student,lecturer2,,2024-12-09 16:00,Approved
+1,2,,2024-12-31 07:00,Approved
+

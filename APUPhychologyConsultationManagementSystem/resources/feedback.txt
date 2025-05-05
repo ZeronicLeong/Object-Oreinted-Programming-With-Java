@@ -1,0 +1,9 @@
+student,lecturer1,2024-12-12 14:00,The session was very informative and helpful.
+student,lecturer1,2024-12-15 15:00,Thank you for your guidance and support.
+student,lecturer2,2024-12-10 09:00,I wish the session had been more detailed.
+student,lecturer1,2024-12-11 10:00,The session was well-structured and insightful.
+lecturer1,student,2024-12-12 14:00,Thank you for your active participation during the session.
+lecturer1,student,2024-12-15 15:00,Great progress! Keep up the hard work.
+lecturer2,student,2024-12-10 09:00,We can discuss further details in the next session.
+lecturer1,student,2024-12-11 10:00,I’m glad you found the session insightful.
+

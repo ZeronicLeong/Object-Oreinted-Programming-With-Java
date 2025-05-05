@@ -1,0 +1,8 @@
+student,123,Student
+lecturer1,123,Lecturer
+lecturer2,123,Lecturer
+leong,zero111,Student
+leong,123,Student
+zeronic,123,Student
+1,1,Student
+2,2,Lecturer
